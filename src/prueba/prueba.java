@@ -7,5 +7,8 @@ public class prueba {
 		// TODO Auto-generated method stub
 
 	}
+	public String toString() {
+		return "afpaoefja";
+	}
 
 }
